@@ -2,7 +2,7 @@
 
 **DocSpot** is a comprehensive MERN (MongoDB, Express, React, Node.js) stack application designed to bridge the gap between patients and healthcare providers. It allows patients to discover doctors by specialty, book appointments seamlessly, and manage their health profiles, while providing a dedicated dashboard for administrators and doctors.
 
-**🌐 Live Demo:** [DocSpot Frontend](https://doctor-booking-project-frontend.onrender.com/)
+**🌐 Live Demo:** [DocSpot_Demo](https://doctor-booking-project-frontend.onrender.com/)
 
 ---
 
