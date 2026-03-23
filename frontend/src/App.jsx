@@ -9,7 +9,7 @@ import Login from './pages/Login.jsx'
 import Doctors from './pages/Doctors.jsx'
 import Appoinment from './pages/Appoinment.jsx'
 import Navbar from './components/Navbar.jsx'
-import Footer from './components/footer.jsx'
+import Footer from './components/Footer.jsx'
 
 
   import { ToastContainer, toast } from 'react-toastify';
